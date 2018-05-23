@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "834838312560",
+    "firebase_url": "https://calls-65820.firebaseio.com",
+    "project_id": "calls-65820",
+    "storage_bucket": "calls-65820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834838312560:android:f737f79e9b295275",
+        "android_client_info": {
+          "package_name": "ittepic.edu.mx.call_log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834838312560-04h3eqjpge9pn394d8cr2fs7duc26vns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzAY9VG5JxKFhcKfT2oSRi4BPGtYJJBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
